@@ -1,5 +1,20 @@
 # uts_safira
-
+# halaman item
+![hasil](images/itemAwal.jpg)
+# penambahan item
+![hasil](images/tambahItem.jpg)
+# item berhasil ditambahkan dengan id 7
+![hasil](images/berhasil7.jpg)
+# hapus item dengan id 3
+![hasil](images/hapus3.jpg)
+# halaman deskripsi
+![hasil](images/desAwal.jpg)
+# penambahan item
+![hasil](images/tambahDes.jpg)
+# deskripsi berhasil ditambahkan dengan id 6
+![hasil](images/berhasil7.jpg)
+# hapus deskripsi dengan id 1
+![hasil](images/hapus1.jpg)
 A new Flutter project.
 
 ## Getting Started
