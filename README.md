@@ -12,7 +12,7 @@
 # penambahan item
 ![hasil](images/tambahDes.jpg)
 # deskripsi berhasil ditambahkan dengan id 6
-![hasil](images/berhasil7.jpg)
+![hasil](images/berhasil6.jpg)
 # hapus deskripsi dengan id 1
 ![hasil](images/hapus1.jpg)
 A new Flutter project.
